@@ -1,0 +1,8 @@
+YourApplication.class
+com\yourpackage\model\AuthResponse.class
+com\yourpackage\service\AuthService.class
+com\yourpackage\model\AuthRequest.class
+com\yourpackage\service\CustomerService.class
+com\yourpackage\model\Customer.class
+com\yourpackage\controller\AuthController.class
+com\yourpackage\controller\CustomerController.class
